@@ -30,8 +30,8 @@ Where the passed array of prices has the most recent at its 0-index.
 [npm-url]: https://npmjs.org/package/ta-lib
 [npm-image]: https://badge.fury.io/js/ta-lib.png
 
-[travis-url]: http://travis-ci.org/csupnig/ta-lib
-[travis-image]: https://secure.travis-ci.org/csupnig/ta-lib.png?branch=master
+[travis-url]: https://travis-ci.org/rajkolli03/ta-lib
+[travis-image]: https://travis-ci.org/rajkolli03/ta-lib.svg?branch=devel
 
 [depstat-url]: https://david-dm.org/csupnig/ta-lib
 [depstat-image]: https://david-dm.org/csupnig/ta-lib.png
